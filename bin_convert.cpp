@@ -30,7 +30,6 @@ int main(int argc, char* argv[]){
         else{
             b10_input = b10_input / new_base;
         }
-        cout << "Remainder: " << remainder << endl;
         remainder_str = to_string(remainder);
         result = result + remainder_str;
     }
