@@ -35,7 +35,7 @@ int main(int argc, char* argv[]){
     }
     
     reverse(result.begin(), result.end());    
-    cout << "Result: " << result << endl;
+    cout << "Binary Result: " << result << endl;
 
     return 0;
 }
