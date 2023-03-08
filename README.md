@@ -13,5 +13,5 @@ Conversion from the decimal system to the binary system is an important task in 
 g++ bin_convert.cpp -o a.out && ./a.out 10
 ```
 
-**Output: ** ```Binary Result: 1010```
+**Output:** ```Binary Result: 1010```
 
