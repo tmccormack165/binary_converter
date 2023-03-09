@@ -1,4 +1,4 @@
-#binary_converter
+# binary_converter
 A simple script that converts base 10 integers into binary
 
 # Decimal to Binary Decoder
